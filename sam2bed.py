@@ -5,6 +5,9 @@ Created on Thu May 10 10:29:45 2018
 Version 1. SAM to BED Exercise - output BED format with read
 Version 2. SAM to BED Exercise - output BED format with fragment coordinates
            Fragment length (TLEN) + chromStart = coordinate of end of fragment.
+
+
+
 1. Import file from public location (Lucy's SAM file)
 2. Format: Datastructure representing the contents of BED file
    Map from one file format to the other:
